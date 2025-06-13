@@ -16,14 +16,14 @@ module.exports = {
 		envConfig: {}
 	},
 	onStart: async function ({ message }) {
-		const authorName = " ⩸_ Didar _⩸ ";
-		const ownAge = "『 ⩸_ 19 _⩸ 』";
-		const messenger = " //https://m.me/100000934675181";
-		const authorFB = " //https://www.facebook.com/didar.xx2?mibextid=wwXIfr&mibextid=wwXIfr";
+		const authorName = "𝗠𝗿.𝗗𝗶𝗱𝗮𝗿";
+		const ownAge = "19";
+		const messenger = " //https://m.me/100044855600383";
+		const authorFB = " //https://www.facebook.com/Didar.Einstein12";
 		const authorNumber = "013********94";
-		const Status = "⩸____⩸";
+		const Status = "𝘀𝗶𝗻𝗴𝗹𝗲 ";
 		const urls = [
-"https://drive.google.com/uc?export=view&id=1P-J1ti7FAdCAwqLSF_2SVOpAgkytgpkZ"
+"https://drive.google.com/uc?export=download&id=1ZFN18K6yyRarQ7Iaa-DFtRsA-c6WkSZD"
 ];
 		const link = urls[Math.floor(Math.random() * urls.length)];
 		const now = moment().tz('Asia/Jakarta');
