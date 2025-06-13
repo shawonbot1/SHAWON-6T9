@@ -48,7 +48,7 @@ module.exports.onStart = async function ({ api, event, args, usersData }) {
     const color = msg[6]?.trim() || "white";
 
     api.sendMessage(
-      `Processing your cover, Wait koro baby < 🥂`,
+      `Processing your cover, Wait koro baby < 😘`,
       event.threadID,
       (err, info) =>
         setTimeout(() => {
