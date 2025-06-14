@@ -35,10 +35,10 @@
 
 <div align="center">
 			<h3>My Replit Account ->
-			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@Ayanchoudhuri🔥</a>
+			<a href="https://replit.com/@didar67didar123" style="color: green;">@Einstein42</a>
 				<br>
 	My Facebook Account ->
-	<a href="https://www.facebook.com/Didar.Einstein12" style="color: black;">Ayan🚀</a></h3></div>
+	<a href="https://www.facebook.com/Didar.Einstein12" style="color: black;">Didar🚀</a></h3></div>
 
 <img align="center" src="https://i.imgur.com/3u5VOaH.jpeg"/>
 
