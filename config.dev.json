@@ -12,14 +12,14 @@
 	"antiInbox": true,
 	"language": "en",
 	"notesLanguage": "change to your language with ISO 639-1 code, available languages: vi (Vietnamese), en (English)",
-	"nickNameBot": "♡︎𝗠𝗜𝗥𝗔 𝗞𝗜𝗠 𝗥𝗢𝗕𝗢𝗧♡︎",
-	"prefix": "-",
+	"nickNameBot": "𝗦𝗛𝗔𝗪𝗢𝗡 𝗫 𝗕𝗢𝗧",
+	"prefix": "%",
 	"adminOnly": {
 		"enable": false,
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100044855600383"
+		"100091984105501"
 	],
 	"nisanBot": [
 		"GROUP_ID"
@@ -50,7 +50,7 @@
 	"timeZone": "Asia/Dhaka",
 	"credentials": {
     "gmailAccount": {
-      "email": "nisaneditz@gmail.com",
+      "email": "",
       "clientId": "356551796908-109qeba7nv0e30u2c7o22gr9podqsiim.apps.googleusercontent.com",
       "clientSecret": "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",
       "refreshToken": "1//04otrr7tUfUAFCgYIARAAGAQSNwF-L9IrnanDeaer7kPniPX_EdWPKNnf4_z7ONCUcR5Jp6_kcSXWKAND0inf-n1Yv1LRryIKNhY"
